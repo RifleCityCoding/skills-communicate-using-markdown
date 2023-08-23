@@ -3,3 +3,6 @@
 ```javascript
 let myName = "James Spencer";
 ```
+- [ ] Finish Intro to GitHub
+- [ ] It auto adds next list checklist, cool!
+- [ ] Prepare for 3pm Stand up
